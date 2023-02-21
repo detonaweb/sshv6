@@ -5,19 +5,19 @@
 </p>
   <br/>
   <p align="center">
-    <a href="https://github.com/TelksBr/SSH_T_PROJECT_PLUS/network/members">
+    <a href="https://github.com/detonaweb">
       <img alt="forks" src="https://img.shields.io/github/forks/telksbr/SSH_T_PROJECT_PLUS.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <a href="https://github.com/detonaweb">
       <img alt="stars" src="https://img.shields.io/github/stars/telksbr/SSH_T_PROJECT_PLUS.svg" />
     </a>
-    <a href="https://github.com/TelksBr/SSH_T_PROJECT_PLUS/watchers">
+    <a href="https://github.com/detonaweb">
       <img alt="watchers" src="https://img.shields.io/github/watchers/telksbr/SSH_T_PROJECT_PLUS.svg" />
     </a>
-    <a href="https://github.com/TelksBr/SSH_T_PROJECT_PLUS/watchers">
+    <a href="https://github.com/detonaweb">
       <img alt="pr-closed" src="https://img.shields.io/github/issues-pr-closed/telksbr/SSH_T_PROJECT_PLUS.svg" />
     </a>
-    <a href="https://github.com/TelksBr/">
+    <a href="https://github.com/detonaweb">
       <img alt="mainteined" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
     </a>
   </p>
@@ -45,13 +45,13 @@
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/TelksBr/SSH_T_PROJECT_PLUS/main/ssh-plus)
 ````
 ## :octocat: Credits
-1. @crazy_vpn - Developer of SSHPlus Manager
-2. @talkera - Contributor
+1. @DETONAWEBSSH4G - Developer 
 
-# Canal E Grupos Do Telegram
+# MEU CRIADOR
 ```
-https://t.me/ssh_t_project
+https://t.me/DETONAWEBSSH4G
 ```
 ```
-https://t.me/ssh_t_project_grupo
+DONATE: detonawebssh@gmail.com
+ PIX EMAIL
 ```
