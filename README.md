@@ -1,6 +1,6 @@
 
 <p align="center">
- <div align="center"> <img src="blob:https://web.telegram.org/7ec0b489-006e-4a0f-9954-826dc5ccbfed" width="100" img> <h1 align="center"> SSH T PROJECT PLUS </h1></div>
+ <div align="center"> <img src="https://imageup.me/qa0" width="100" img> <h1 align="center"> SSH T PROJECT PLUS </h1></div>
  <p align="center"><i>Script de gerenciamento ssh e v2ray baseado no SSHPLUS</i></p>
 </p>
   <br/>
