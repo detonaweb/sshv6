@@ -1,6 +1,6 @@
 
 <p align="center">
- <div align="center"> <img src="https://fv2-1.failiem.lv/down.php?i=rabcmdbtk" width="100" img> <h1 align="center"> SSH T PROJECT PLUS </h1></div>
+ <div align="center"> <img src="https://uploaddeimagens.com.br/images/004/361/056/full/unnamed.jpg?1676942676" width="100" img> <h1 align="center"> SSH DETONAWEB PLUS V6 </h1></div>
  <p align="center"><i>Script de gerenciamento ssh e v2ray baseado no SSHPLUS</i></p>
 </p>
   <br/>
