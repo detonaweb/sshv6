@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-#--------@THE_ORION_SCRIPT_PRO-----------#
+#--------DETONAWEBSSH-----------#
 source ShellBot.sh
 touch lista
 [[ -z $1 ]] && {
@@ -15,7 +15,7 @@ ShellBot.username
 menu() {
     local msg
         msg="=×=×=×=×=×=×=×=×=×=×=×=×=×=\n"
-        msg+="<b>🤖 OLA SEJA BEM VINDO(a) 🤖</b>\n"
+        msg+="<b>🤖 DETONAWEBSSH 🤖</b>\n"
         msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=\n\n"
         msg+="Gere seu teste agora mesmo!"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
