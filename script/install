@@ -1,9 +1,9 @@
 #!/bin/bash
 clear
-#--------------------------
-# SCRIPR SSH-PLUS
-# CANAL TELEGRAM: @scottsshd
-#--------------------------
+#==========================
+# SCRIPT DETONAWEBSSH
+# CANAL TELEGRAM: @detonawebsshvpn
+#==========================
 
 # - Cores
 RED='\033[1;31m'
