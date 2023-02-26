@@ -42,7 +42,7 @@
 # Como Instalar!
 
 ````
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/TelksBr/SSH_T_PROJECT_PLUS/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/detonaweb/sshv6/main/ssh-plus)
 ````
 ## :octocat: Credits
 1. @DETONAWEBSSH4G - Developer 
